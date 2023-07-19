@@ -25,7 +25,7 @@ terraform {
 
 // Enter your HOSTNAME (xxxxx.scalr.io)
 
-    hostname = "<YOUR-SCALR-HOST-HERE>.scalr.io"
+    hostname = "pathward-kurt.scalr.io"
     workspaces {
       name = "scalr-ignite"
     }

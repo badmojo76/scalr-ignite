@@ -20,4 +20,4 @@
 # CONFIGURATION NEEDED - Enter your Account ID (Found on the Scalr Account Dashboard) #
 #######################################################################################
 
-account_id = "acc-xxxxxxxxxxxxxxx"
+account_id = "acc-v0o0b8s6pahu20tep"
