@@ -94,3 +94,8 @@
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
+  - name: Bala-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
