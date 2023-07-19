@@ -54,7 +54,7 @@
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
-  - name: Amanda-Lab
+  - name: Wayne-Lab
     secmaps:
     - roles:
       - Ignite-Workspace-ReadOnly-Role
@@ -64,12 +64,7 @@
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
-  - name: Wayne-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
-  - name: Andy-Lab
+  - name: Bala-Lab
     secmaps:
     - roles:
       - Ignite-Workspace-ReadOnly-Role
@@ -79,23 +74,4 @@
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
-  - name: Tiffany-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
-  - name: Rodger-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
-  - name: Yomi-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
-  - name: Bala-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
+ 
