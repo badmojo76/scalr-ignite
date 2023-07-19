@@ -49,22 +49,47 @@
     - roles:
       - Ignite-Workspace-Admin-Role
       team: Ignite-CCOE-Admin-Team
-  - name: Fred-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
-  - name: Kellee-Lab
-    secmaps:
-    - roles:
-      - Ignite-Workspace-ReadOnly-Role
-      team: Ignite-Security-Admin-Team
   - name: Kurt-Lab
     secmaps:
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
-  - name: Tim-Lab
+  - name: Amanda-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Lloyd-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Wayne-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Andy-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Mike-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Tiffany-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Rodger-Lab
+    secmaps:
+    - roles:
+      - Ignite-Workspace-ReadOnly-Role
+      team: Ignite-Security-Admin-Team
+  - name: Yomi-Lab
     secmaps:
     - roles:
       - Ignite-Workspace-ReadOnly-Role
