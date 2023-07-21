@@ -69,7 +69,7 @@
     - roles:
       - Ignite-Workspace-ReadOnly-Role
       team: Ignite-Security-Admin-Team
-  - name: Mike-Lab
+  - name: Andy-Lab
     secmaps:
     - roles:
       - Ignite-Workspace-ReadOnly-Role
